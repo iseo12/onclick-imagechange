@@ -5,7 +5,7 @@ var btn = document.createElement('button');
 var img = document.createElement('img');
 
 //add header to new div
-newHeader.textContent = "Exercise Header";
+newHeader.textContent = "Image Changer";
 newDiv.setAttribute('id', 'container-2');
 newDiv.appendChild(newHeader);
 img.setAttribute('src', 'img/cat-1.png');
