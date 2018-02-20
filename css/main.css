@@ -1,0 +1,12 @@
+h1 {
+  font-size: 36px;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+
+#newDivContainer {
+  text-align: center;
+}
